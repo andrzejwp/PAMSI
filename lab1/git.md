@@ -2,7 +2,7 @@
 
 ## Jak stworzyć repozytorium
 
-(Instrukcja na GitHub)[https://help.github.com/articles/set-up-git/]
+[Instrukcja na GitHub](https://help.github.com/articles/set-up-git/)
 
 ## Jak zainstalować GITa
 
