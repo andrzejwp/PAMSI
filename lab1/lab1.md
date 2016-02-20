@@ -7,9 +7,9 @@
 ### Oceny z kartkówek
 
 ## Zawartość kursu
-### Struktury danych
-### Algorytmy
-### Metody sztucznej inteligencji
+### 1. Struktury danych
+### 1. Algorytmy
+### 1. Metody sztucznej inteligencji
 
 
 ## Zasady wykonywania zadań
@@ -17,3 +17,5 @@
 ### Kompilator gcc
 ### GNU make
 ### Zakaz korzystania z "dobrodziejstw" biblioteki STL takich jak lista, wektor itd.
+### Kod umieszczany w repozytorium na GitHub.com (proszę nie korzystać z innych serwisów)
+### Kod na kolejne laboratoria powinien być wytwarzany w nowych branchach o nazwach ``lab1``, ``lab2``, ``lab3`` itd.
