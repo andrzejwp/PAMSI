@@ -1,5 +1,11 @@
 # GIT vs. PAMSI
 
+
+## Jak korzystać z GITa
+[Interaktywny tutorial na GitHub](https://try.github.io/)
+[Tutorial Atlassiana](https://www.atlassian.com/git/tutorials/)
+
+
 ## Jak stworzyć repozytorium
 
 [Instrukcja na GitHub](https://help.github.com/articles/set-up-git/)
@@ -14,4 +20,5 @@ sudo apt-get install git
 
 ```
 
-## Co to są branche, commity itd.
+
+
