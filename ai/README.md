@@ -5,3 +5,5 @@
 3. Download the pamsi.yml file
 4. Open a terminal and run ``conda env create -f pamsi.yml`` to create the environment.
 5. Activate the environment - run ``source activate pamsi`` (OSX & Linux)	
+6. Launch jupyter notebook - run ``jupyter notebook Quickstart.ipynb``
+7. Within the notebook you can execute the cells by hitting ctrl+enter.
